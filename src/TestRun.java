@@ -5,5 +5,6 @@ public class TestRun {
         System.out.println("更新： Ctrl + T  OK");
         System.out.println("123");
         System.out.println("456");
+        System.out.println("456");
     }
 }
